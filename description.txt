@@ -1,0 +1,5 @@
+I modified the code so I would only see amounts of water that were above 1200 dollars.
+
+Based on the summary data, the most common places water was purchased was Hague Quality Water of MD INC, Deer Park, Waterlogic East LLC, Quench, Crystal Springs. The smallest value of water was purchased by COMMITTEE ON ENERGY & COMMERCE and it was for 1019.43 dollars. And the largest value of water purchased was by the OFFICE OF THE MINORITY LEADER for 4158 dollars.
+
+Question: how come even after I modified the code, it still gave me statistics on other data points in the data? And how best to read data summaries - that is, what to look for?
