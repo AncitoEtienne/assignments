@@ -1,0 +1,16 @@
+
+First I downloaded the csvkit, which allows me me to convert and work with csv files.
+
+I went into my assignments directory
+
+I created a file name filter.py and added a program that reads data in a csv file into the file.
+
+I then made the script executable using the chmod command
+
+I then downloaded data directly from a website using the curl command.
+
+I redirected the output into a file I created called expensive_water.csv
+
+I piped expensive_water.csv into csvstat and then I redirected (added it) into a new file called expensive_water_summary.txt 
+
+Then, open the file in excel
